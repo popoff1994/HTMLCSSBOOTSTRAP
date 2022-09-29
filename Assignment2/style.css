@@ -1,0 +1,26 @@
+p {
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+.column{
+    background-color: #fff387;
+    opacity: 0.9;
+}
+
+a{
+    color: black;
+}
+.border2 {
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    
+}
+.border1 {
+    border-bottom: 3px solid #fff387;
+    border-top: 3px solid #fff387;   
+}
+.border3 {
+    border-bottom: 3px solid #fff387;
+
+}
